@@ -1,5 +1,5 @@
 # CsharpJsonSample
-JSON Serialize and Deserialize sample
+JSON Serialize and Deserialize sample, implemented with [Json.NET](http://www.newtonsoft.com/json)
 
 ## 環境
 - Visual Studio 2013 (C#)
