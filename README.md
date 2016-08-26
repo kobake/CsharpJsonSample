@@ -1,6 +1,10 @@
 # CsharpJsonSample
 JSON Serialize and Deserialize sample
 
+## 環境
+- Visual Studio 2013 (C#)
+
+## 概要
 以下動作のサンプル
 - C# オブジェクトを JSON テキストに変換
 - JSON テキストを C# オブジェクトに変換
